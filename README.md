@@ -56,7 +56,7 @@
 
 ---
 
-# Graphics Mods
+# Graphics Mods
 
 | Mod | Type | Requirements |
 | --- | --- | --- |
