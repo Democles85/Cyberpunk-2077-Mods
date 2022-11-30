@@ -99,7 +99,7 @@
 
 ---
 
-# E3 Experience Mods
+# E3 Experience Mods
 
 | Mod | Description | Requirements |
 | --- | --- | --- |
@@ -186,7 +186,7 @@
 
 ---
 
-# Fun Mods
+# Fun Mods
 
 | Mod | Type | Description | Requirements |
 | --- | --- | --- | --- |
