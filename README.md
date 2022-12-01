@@ -74,7 +74,7 @@
 | --- | --- | --- |
 | [E3 2018 Lighting](https://www.nexusmods.com/cyberpunk2077/mods/1347) | This mod simply changes the lighting using the game's engine closer to what we saw in E3 Demo. | None |
 | [E3 2018 LUT](https://www.nexusmods.com/cyberpunk2077/mods/5154) | This is not a Lighting Mod**, **this is not a ReShade**, this just simply forces the game to load a different LUT (color grading) file, one which more resembles the look/colors of the demo from E3 in 2018. | None |
-| [E3 Visual Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/2170) | This is a Reshade created to improve the colors and shadows of the E3 2018 LUT mod. **ONLY RESHADE VERSION 4.9.1**, since Reshade 5.0+ crashes a lot with Cyberpunk 2077. | - [E3 2018 LUT](https://www.nexusmods.com/cyberpunk2077/mods/5154) |
+| [E3 Visual Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/2170) | This is a Reshade created to improve the colors and shadows of the E3 2018 LUT mod. **[ONLY RESHADE 4.9.1](https://reshade.me/downloads/ReShade_Setup_4.9.1.exe)**, since Reshade 5.0+ crashes a lot with Cyberpunk 2077. | - [E3 2018 LUT](https://www.nexusmods.com/cyberpunk2077/mods/5154) |
 
 # UI Mods
 
