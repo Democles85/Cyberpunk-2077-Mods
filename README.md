@@ -11,7 +11,7 @@
 | ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1879/1879-1618844106-1839584253.png) | [Ciri](https://www.nexusmods.com/cyberpunk2077/mods/1879) | Streetkid | Female |
 | ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1855/1855-1614623434-1601211553.png) | [Valerie](https://www.nexusmods.com/cyberpunk2077/mods/1855) | Streetkid | Female |
 | ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1447/1447-1612429644-1734001826.jpeg) | [Rebecca](https://www.nexusmods.com/cyberpunk2077/mods/1447) | Streetkid | Female |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/4710/4710-1657133146-1263958174.png) | [Miyu](https://www.nexusmods.com/cyberpunk2077/mods/4710) | Streetkid/Nomad | Female |
+| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/8444/8444-1685698938-1756664454.png) | [Miyu - Updated](https://www.nexusmods.com/cyberpunk2077/mods/8444) | Streetkid/Nomad | Female |
 | ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/4112/4112-1647214094-2122291832.png) | [Natalya](https://www.nexusmods.com/cyberpunk2077/mods/4112) | Streetkid | Female |
 | ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1435/1435-1647403625-990786855.png) | [Vanessa](https://www.nexusmods.com/cyberpunk2077/mods/1435) | Nomad | Female |
 | ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1023/1023-1610860526-342499112.jpeg) | [Frank](https://www.nexusmods.com/cyberpunk2077/mods/1023) | Corpo | Male |
