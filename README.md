@@ -3,22 +3,23 @@
 | Image | Name | Type | Gender |
 | --- | --- | --- | --- |
 | ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/5572/5572-1664748907-1292357907.png) | [Valeria](https://www.nexusmods.com/cyberpunk2077/mods/5572) | Corpo | Female |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/5495/5495-1664480758-536828438.jpeg) | [Aria](https://www.nexusmods.com/cyberpunk2077/mods/5495) | Streetkid | Female |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/4766/4766-1656956856-748251509.png) | [Megabyte](https://www.nexusmods.com/cyberpunk2077/mods/4766) | Nomad | Female |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/3383/3383-1635745804-664532546.png) | [Caterina](https://www.nexusmods.com/cyberpunk2077/mods/3383) | Streetkid/Nomad | Female |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/2471/2471-1619523512-769408491.png) | [Yennefer](https://www.nexusmods.com/cyberpunk2077/mods/2471) | Corpo/Streetkid | Female |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1933/1933-1615325412-60195154.png) | [Cara Delavigne](https://www.nexusmods.com/cyberpunk2077/mods/1933) | Streetkid/Nomad | Female |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1879/1879-1618844106-1839584253.png) | [Ciri](https://www.nexusmods.com/cyberpunk2077/mods/1879) | Streetkid | Female |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1855/1855-1614623434-1601211553.png) | [Valerie](https://www.nexusmods.com/cyberpunk2077/mods/1855) | Streetkid | Female |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1447/1447-1612429644-1734001826.jpeg) | [Rebecca](https://www.nexusmods.com/cyberpunk2077/mods/1447) | Streetkid | Female |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/8444/8444-1685698938-1756664454.png) | [Miyu - Updated](https://www.nexusmods.com/cyberpunk2077/mods/8444) | Streetkid/Nomad | Female |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/4112/4112-1647214094-2122291832.png) | [Natalya](https://www.nexusmods.com/cyberpunk2077/mods/4112) | Streetkid | Female |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1435/1435-1647403625-990786855.png) | [Vanessa](https://www.nexusmods.com/cyberpunk2077/mods/1435) | Nomad | Female |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1023/1023-1610860526-342499112.jpeg) | [Frank](https://www.nexusmods.com/cyberpunk2077/mods/1023) | Corpo | Male |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1602/1602-1613130043-1974647546.png) | [Dorin](https://www.nexusmods.com/cyberpunk2077/mods/1602) | Nomad | Male |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/5327/5327-1663789905-1796493302.png) | [David (Edgerunners)](https://www.nexusmods.com/cyberpunk2077/mods/5327) | Streetkid | Male |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1129/1129-1611235637-997806335.png) | [Keanu Reeves](https://www.nexusmods.com/cyberpunk2077/mods/1129) | Corpo/Streetkid/Nomad | Male |
-| ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/1938/1938-1615362954-600429376.png) | [Florin](https://www.nexusmods.com/cyberpunk2077/mods/1938) | Corpo | Male |
+| ![Calisto](https://staticdelivery.nexusmods.com/mods/3333/images/8532/8532-1686574757-1036550899.png) | [Calisto](https://www.nexusmods.com/cyberpunk2077/mods/8532) | Corpo | Female |
+| ![Aria](https://staticdelivery.nexusmods.com/mods/3333/images/5495/5495-1664480758-536828438.jpeg) | [Aria](https://www.nexusmods.com/cyberpunk2077/mods/5495) | Streetkid | Female |
+| ![Megabyte](https://staticdelivery.nexusmods.com/mods/3333/images/4766/4766-1656956856-748251509.png) | [Megabyte](https://www.nexusmods.com/cyberpunk2077/mods/4766) | Nomad | Female |
+| ![Caterina](https://staticdelivery.nexusmods.com/mods/3333/images/3383/3383-1635745804-664532546.png) | [Caterina](https://www.nexusmods.com/cyberpunk2077/mods/3383) | Streetkid/Nomad | Female |
+| ![Yennefer](https://staticdelivery.nexusmods.com/mods/3333/images/2471/2471-1619523512-769408491.png) | [Yennefer](https://www.nexusmods.com/cyberpunk2077/mods/2471) | Corpo/Streetkid | Female |
+| ![Cara Delavigne](https://staticdelivery.nexusmods.com/mods/3333/images/1933/1933-1615325412-60195154.png) | [Cara Delavigne](https://www.nexusmods.com/cyberpunk2077/mods/1933) | Streetkid/Nomad | Female |
+| ![Ciri](https://staticdelivery.nexusmods.com/mods/3333/images/1879/1879-1618844106-1839584253.png) | [Ciri](https://www.nexusmods.com/cyberpunk2077/mods/1879) | Streetkid | Female |
+| ![Valerie](https://staticdelivery.nexusmods.com/mods/3333/images/1855/1855-1614623434-1601211553.png) | [Valerie](https://www.nexusmods.com/cyberpunk2077/mods/1855) | Streetkid | Female |
+| ![Rebecca](https://staticdelivery.nexusmods.com/mods/3333/images/1447/1447-1612429644-1734001826.jpeg) | [Rebecca](https://www.nexusmods.com/cyberpunk2077/mods/1447) | Streetkid | Female |
+| ![Miyu - Updated](https://staticdelivery.nexusmods.com/mods/3333/images/8444/8444-1685698938-1756664454.png) | [Miyu - Updated](https://www.nexusmods.com/cyberpunk2077/mods/8444) | Streetkid/Nomad | Female |
+| ![Natalya](https://staticdelivery.nexusmods.com/mods/3333/images/4112/4112-1647214094-2122291832.png) | [Natalya](https://www.nexusmods.com/cyberpunk2077/mods/4112) | Streetkid | Female |
+| ![Vanessa](https://staticdelivery.nexusmods.com/mods/3333/images/1435/1435-1647403625-990786855.png) | [Vanessa](https://www.nexusmods.com/cyberpunk2077/mods/1435) | Nomad | Female |
+| ![Frank](https://staticdelivery.nexusmods.com/mods/3333/images/1023/1023-1610860526-342499112.jpeg) | [Frank](https://www.nexusmods.com/cyberpunk2077/mods/1023) | Corpo | Male |
+| ![Dorin](https://staticdelivery.nexusmods.com/mods/3333/images/1602/1602-1613130043-1974647546.png) | [Dorin](https://www.nexusmods.com/cyberpunk2077/mods/1602) | Nomad | Male |
+| ![David (Edgerunners)](https://staticdelivery.nexusmods.com/mods/3333/images/5327/5327-1663789905-1796493302.png) | [David (Edgerunners)](https://www.nexusmods.com/cyberpunk2077/mods/5327) | Streetkid | Male |
+| ![Keanu Reeves](https://staticdelivery.nexusmods.com/mods/3333/images/1129/1129-1611235637-997806335.png) | [Keanu Reeves](https://www.nexusmods.com/cyberpunk2077/mods/1129) | Corpo/Streetkid/Nomad | Male |
+| ![Florin](https://staticdelivery.nexusmods.com/mods/3333/images/1938/1938-1615362954-600429376.png) | [Florin](https://www.nexusmods.com/cyberpunk2077/mods/1938) | Corpo | Male |
 | ![Valeria](https://staticdelivery.nexusmods.com/mods/3333/images/5316/5316-1663815128-2096482953.png)![](https://staticdelivery.nexusmods.com/mods/3333/images/5316/5316-1663741580-830234197.png) | [**Rebecca and Lucy**(Edgerunners)](https://www.nexusmods.com/cyberpunk2077/mods/5316) | Streetkid | Female |
 
 ---
